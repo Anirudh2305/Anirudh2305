@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 
-<img align="right" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
+<img align="right" width="150" height="250" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
 
 - 🧑🏻‍💻 **Data Engineer**
 
@@ -48,10 +48,10 @@ alt="cplusplus" width="50" hspace="5" height="50" />
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
 
-   <a href="https://github.com/only-rohit">
+   <a href="https://github.com/Anirudh2305">
         <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-   <a href="mailto:onlyrohityadav@gmail.com">
+   <a href="mailto:vanirudh03@gmail.com">
         <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
       </a>
 </p>
