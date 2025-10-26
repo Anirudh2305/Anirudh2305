@@ -34,9 +34,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="sqlite" width="50" hspace="5" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="50" hspace="5" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" hspace="5" height="50"/>
-<img src="images/databricks.svg" alt="Databricks" width="50" hspace="5" height="50"/>
-<img src="images/snowflake.svg" alt="Snowflake" width="50" hspace="5" height="50"/>
-<img src="images/fabric.svg" alt="Microsoft Fabric" width="50" hspace="5" height="50"/>
+<img src="https://github.com/user-attachments/assets/4138c8f8-05db-4f8f-95f2-be48b158820c" alt="snowflake" width="50" hspace="5" height="50"/>
+<img src="https://github.com/user-attachments/assets/52da27e7-2710-44d9-a5d8-609aca028be7" alt="databricks" width="50" hspace="5" height="50"/>
+<img src="https://github.com/user-attachments/assets/7f989296-029a-49c2-a01a-bdd04ec192d7" alt="fabric" width="50" hspace="5" height="50"/>
 </p>
 
 
